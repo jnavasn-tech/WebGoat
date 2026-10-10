@@ -61,6 +61,7 @@
   </issueManagement>
 
   <properties>
+      <sonar.organization>jnavasn-tech</sonar.organization>
     <!-- Shared properties with plugins and version numbers across submodules-->
     <asciidoctorj.version>3.0.1</asciidoctorj.version>
     <bootstrap.version>5.3.5</bootstrap.version>
@@ -112,7 +113,7 @@
     <xstream.version>1.4.5</xstream.version>
     <!-- do not update necessary for lesson -->
     <zxcvbn.version>1.9.0</zxcvbn.version>
-    <sonar.organization>jnavasn-tech</sonar.organization>
+    
   </properties>
 
   <dependencyManagement>
