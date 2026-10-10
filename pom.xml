@@ -112,6 +112,7 @@
     <xstream.version>1.4.5</xstream.version>
     <!-- do not update necessary for lesson -->
     <zxcvbn.version>1.9.0</zxcvbn.version>
+    <sonar.organization>jnavasn-tech</sonar.organization>
   </properties>
 
   <dependencyManagement>
@@ -938,3 +939,5 @@
     </profile>
   </profiles>
 </project>
+
+
